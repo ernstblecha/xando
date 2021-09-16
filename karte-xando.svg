@@ -14,7 +14,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="karte-xando-mit-original.svg">
+   sodipodi:docname="karte-xando.svg">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -2415,23 +2415,23 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23408046"
-     inkscape:cx="2142.6043"
-     inkscape:cy="2955.7691"
+     inkscape:zoom="1.7427382"
+     inkscape:cx="2005.9699"
+     inkscape:cy="3999.2976"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer15"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="-10"
      fit-margin-left="-10"
      fit-margin-right="-10"
      fit-margin-bottom="-10"
-     inkscape:window-width="1600"
-     inkscape:window-height="831"
-     inkscape:window-x="0"
-     inkscape:window-y="212"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:snap-nodes="true" />
+     inkscape:snap-nodes="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -3837,7 +3837,10 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 561.79457,1056.3136 0.15201,0.6431 0.69765,-0.1649 -0.16103,-0.6812 -0.69765,0.1649 z"
-       id="path1426" />
+       id="path1426">
+      <title
+         id="title2377">Familie Hansen</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 560.75394,1055.1333 -0.29234,0.4093 0.56523,0.4037 0.31832,-0.4456 -0.56523,-0.4037 z"
@@ -3933,7 +3936,10 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 567.19334,1063.7074 1.2141,0.3924 -0.22747,0.7037 -1.21472,-0.3927 0.22746,-0.7037 z"
-       id="path1477" />
+       id="path1477">
+      <title
+         id="title2408">Bauernhaus 1 (Apfelbäuerin)</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 570.44976,1065.6122 -0.0819,0.4677 0.21048,0.037 -0.14356,0.8203 0.4663,0.082 0.22288,-1.2736 -0.67675,-0.1184 z"
@@ -3945,7 +3951,10 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 568.06295,1070.0314 0.0233,0.7951 1.69484,-0.05 -0.023,-0.7837 -1.69487,0.05 z"
-       id="path1483" />
+       id="path1483">
+      <title
+         id="title2410">Hundeschule</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 570.58512,1069.4873 -0.0351,0.7428 1.92244,0.092 0.0378,-0.7872 -1.92302,-0.092 z"
@@ -4014,8 +4023,8 @@
          id="title1774">Ottos Haus</title>
     </path>
     <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 576.62484,1083.3715 0.0468,0.7483 0.64794,-0.04 -0.0459,-0.7342 -0.64794,0.041 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 576.33619,1080.3192 0.0468,0.7483 0.64794,-0.04 -0.0459,-0.7342 -0.64794,0.041 z"
        id="path1517">
       <title
          id="title1770">Lindas Haus</title>
@@ -4094,10 +4103,7 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 584.14242,1074.2799 0.18709,1.5902 2.86819,-0.3374 -0.18476,-1.5705 -2.86819,0.3375 z"
-       id="path1553">
-      <title
-         id="title1826">Tischlerei</title>
-    </path>
+       id="path1553" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 580.90125,1067.4926 1.09916,-0.023 -0.0185,-0.8654 -1.10712,0.024 0.0185,0.8654 z"
@@ -4168,7 +4174,10 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 578.0682,1053.7332 0.0702,0.8419 0.90575,-0.075 -0.0701,-0.8419 z"
-       id="path1587" />
+       id="path1587">
+      <title
+         id="title2379">Gertrude (Kesselflickerin)</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 567.77301,1055.9023 0.1637,0.5262 0.72654,-0.2261 -0.18611,-0.5981 -0.72654,0.226 z"
@@ -4208,7 +4217,10 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 583.21646,1086.411 -1.44995,0.2105 0.095,0.6546 1.43097,-0.2077 -0.095,-0.6546 z"
-       id="path1607" />
+       id="path1607">
+      <title
+         id="title2400">Bäcker</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 583.14044,1085.7536 -1.44995,0.2105 0.095,0.6546 1.43097,-0.2077 -0.095,-0.6546 z"
@@ -4231,16 +4243,15 @@
        id="path1617" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="m 581.4814,1083.9891 0.13306,1.3176 -1.68833,0.1705 -0.12854,-1.2728 1.68833,-0.1705 z"
-       id="path1623" />
-    <path
-       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 584.2092,1084.0503 2.05798,0.2105 -0.0961,0.94 -2.01377,-0.206 0.0961,-0.9399 z"
        id="path1625" />
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 583.85976,1085.8387 0.18709,0.9093 1.46489,-0.3014 -0.20354,-0.9893 -1.46492,0.3014 z"
-       id="path1627" />
+       id="path1627">
+      <title
+         id="title2402">Instrumentenbauer</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 584.1362,1082.8463 1.43894,-0.1172 -0.0619,-0.7598 -1.45835,0.1188 0.0664,0.8156 h 0.0193 z"
@@ -4287,15 +4298,24 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 584.28283,1078.4844 v 0.8103 h 1.39174 v 0.3053 h -0.678 v 0.3968 h 1.2237 v -1.5709 h -1.93744 z"
-       id="path1649" />
+       id="path1649">
+      <title
+         id="title2383">Töpferei</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 590.21884,1079.2439 0.26458,0.8103 0.92525,-0.3021 -0.23675,-0.7251 -0.92527,0.3022 z"
-       id="path1651" />
+       id="path1651">
+      <title
+         id="title2387">Bibliothek</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 584.42333,1076.5216 0.0661,0.5457 1.9,-0.2375 -0.11313,-0.905 -0.53324,0.067 0.0515,0.4123 -1.36472,0.1706 z"
-       id="path1653" />
+       id="path1653">
+      <title
+         id="title2381">Tischlerei</title>
+    </path>
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 589.04499,1075.0321 v 0.5953 h 0.95911 v -0.6118 h -0.95911 z"
@@ -4319,7 +4339,52 @@
     <path
        style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:0.01763889;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 579.99619,1082.6795 2.47113,-0.4162 -0.0502,-0.2868 -1.8482,0.3236 -0.1171,-0.6688 -0.6245,0.1094 0.16452,0.9395 z"
-       id="path1665" />
+       id="path1665">
+      <title
+         id="title2385">Schneiderei</title>
+    </path>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 581.46243,1083.9919 -1.44995,0.2105 0.095,0.6546 1.43097,-0.2077 -0.095,-0.6546 z"
+       id="path2392">
+      <title
+         id="title2396">Taverne von Lui</title>
+    </path>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 581.53845,1084.6493 -1.44995,0.2105 0.095,0.6546 1.43097,-0.2077 -0.095,-0.6546 z"
+       id="path2394">
+      <title
+         id="title2398">Greißler</title>
+    </path>
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 587.0217,1083.6625 v 0.8103 h 1.39174 l 0.0386,2.294 3.75345,0.069 -0.0445,-2.2337 -3.20181,-0.9985 h -1.93744 z"
+       id="path2406"
+       sodipodi:nodetypes="ccccccccc">
+      <title
+         id="title2404">Sportplatz</title>
+    </path>
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.018;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1"
+       id="path2412"
+       sodipodi:sides="5"
+       sodipodi:cx="596.48572"
+       sodipodi:cy="1061.708"
+       sodipodi:r1="1.3160404"
+       sodipodi:r2="1.0646991"
+       sodipodi:arg1="0.57761837"
+       sodipodi:arg2="1.2059369"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 597.58825,1062.4266 -1.44526,0.552 -0.97162,-1.2039 0.84476,-1.2961 1.49372,0.4029 z"
+       inkscape:transform-center-x="0.10591557"
+       inkscape:transform-center-y="0.020596476">
+      <title
+         id="title2414">Gebetsplatz</title>
+    </path>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8178,6 +8243,8 @@
        id="g10290"
        transform="matrix(0.00686085,-0.00686085,0.00686085,0.00686085,576.77356,-569.50234)"
        style="display:inline">
+      <title
+         id="title2375">Bauernhaus 5</title>
       <image
          width="127"
          height="91.524673"
