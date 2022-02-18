@@ -2524,11 +2524,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.616151"
-     inkscape:cx="3118.5537"
-     inkscape:cy="3638.7184"
+     inkscape:zoom="1.7427382"
+     inkscape:cx="2735.0637"
+     inkscape:cy="3873.2152"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer13"
+     inkscape:current-layer="layer22"
      inkscape:document-rotation="0"
      showgrid="false"
      fit-margin-top="-10"
@@ -4322,13 +4322,6 @@
     </path>
     <path
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 721.98461,994.98358 0.0702,0.8419 0.90575,-0.075 -0.0701,-0.8419 z"
-       id="path1587-1-5">
-      <title
-         id="title2379-5-4">Gregorius' Höhle</title>
-    </path>
-    <path
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 567.77301,1055.9023 0.1637,0.5262 0.72654,-0.2261 -0.18611,-0.5981 -0.72654,0.226 z"
        id="path1589" />
     <path
@@ -4530,6 +4523,25 @@
        inkscape:transform-center-y="0.020596476">
       <title
          id="title2414">Gebetsplatz</title>
+    </path>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer22"
+     inkscape:label="buildings_other">
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 721.98461,994.98358 0.0702,0.8419 0.90575,-0.075 -0.0701,-0.8419 z"
+       id="path1587-1-5">
+      <title
+         id="title2379-5-4">Gregorius' Höhle</title>
+    </path>
+    <path
+       style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0176389;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 732.80178,1010.5643 0.0702,0.8419 0.90575,-0.075 -0.0701,-0.8419 z"
+       id="path2496">
+      <title
+         id="title2493">Skeletthöhle</title>
     </path>
   </g>
   <g
